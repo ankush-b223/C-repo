@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c2ff5e22-49fc-4d2b-a47c-344b6fb13349": {
+      "ProjectGuid": "c2ff5e22-49fc-4d2b-a47c-344b6fb13349",
+      "DisplayName": "Half pyramid of stars",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

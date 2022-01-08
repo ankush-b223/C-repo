@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0c78ff41-5ea4-4440-825f-630130ce06e4": {
+      "ProjectGuid": "0c78ff41-5ea4-4440-825f-630130ce06e4",
+      "DisplayName": "Add two numbers with function and test cases",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

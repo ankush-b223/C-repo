@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\ankb2\source\repos\Distinct triplet sum\Distinct triplet sum\Source.cpp(4,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\ankb2\source\repos\Distinct triplet sum\Distinct triplet sum\Source.cpp(7,11): warning C4101: 'duplicate': unreferenced local variable
+C:\Users\ankb2\source\repos\Distinct triplet sum\Distinct triplet sum\Source.cpp(7,6): warning C4101: 'temp': unreferenced local variable
+  Distinct triplet sum.vcxproj -> C:\Users\ankb2\source\repos\Distinct triplet sum\x64\Debug\Distinct triplet sum.exe

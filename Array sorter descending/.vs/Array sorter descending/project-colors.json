@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a858a768-70e5-4e9c-8124-efb498a2231d": {
+      "ProjectGuid": "a858a768-70e5-4e9c-8124-efb498a2231d",
+      "DisplayName": "Array sorter descending",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

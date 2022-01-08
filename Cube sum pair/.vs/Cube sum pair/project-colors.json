@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6fc50d84-2c72-4cb4-a6b2-b7eea705822e": {
+      "ProjectGuid": "6fc50d84-2c72-4cb4-a6b2-b7eea705822e",
+      "DisplayName": "Cube sum pair",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

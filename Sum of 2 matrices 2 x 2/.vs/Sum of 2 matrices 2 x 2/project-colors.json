@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2ef93b5c-dcf3-4151-9488-e213ec0bb35f": {
+      "ProjectGuid": "2ef93b5c-dcf3-4151-9488-e213ec0bb35f",
+      "DisplayName": "Sum of 2 matrices 2 x 2",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

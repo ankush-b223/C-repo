@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3ed016f3-d235-469f-8242-de1dd08b7fbd": {
+      "ProjectGuid": "3ed016f3-d235-469f-8242-de1dd08b7fbd",
+      "DisplayName": "Binary number generator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

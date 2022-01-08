@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "27ee2c69-f00f-42a1-824a-a9061a3aea6e": {
+      "ProjectGuid": "27ee2c69-f00f-42a1-824a-a9061a3aea6e",
+      "DisplayName": "Calculator with switch case",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

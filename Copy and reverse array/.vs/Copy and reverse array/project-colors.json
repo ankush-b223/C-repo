@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e814a64c-8a64-450d-bc48-a16750b04b67": {
+      "ProjectGuid": "e814a64c-8a64-450d-bc48-a16750b04b67",
+      "DisplayName": "Copy and reverse array",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4dc673dd-ca38-4535-8a01-f0ce32781db5": {
+      "ProjectGuid": "4dc673dd-ca38-4535-8a01-f0ce32781db5",
+      "DisplayName": "grade_average",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

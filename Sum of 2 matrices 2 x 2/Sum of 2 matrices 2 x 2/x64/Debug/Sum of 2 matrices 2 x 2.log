@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\ankb2\source\repos\Sum of 2 matrices 2 x 2\Sum of 2 matrices 2 x 2\Source.cpp(3,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\ankb2\source\repos\Sum of 2 matrices 2 x 2\Sum of 2 matrices 2 x 2\Source.cpp(5,30): warning C4101: 'mat_sum': unreferenced local variable
+  Sum of 2 matrices 2 x 2.vcxproj -> C:\Users\ankb2\source\repos\Sum of 2 matrices 2 x 2\x64\Debug\Sum of 2 matrices 2 x 2.exe

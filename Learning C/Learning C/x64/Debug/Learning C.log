@@ -1,0 +1,4 @@
+﻿  grade_avg.cpp
+C:\Users\ankb2\source\repos\Learning C\Learning C\grade_avg.cpp(24,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Largest of 3 numbers using loops.obj : error LNK2005: main already defined in grade_avg.obj
+C:\Users\ankb2\source\repos\Learning C\x64\Debug\Learning C.exe : fatal error LNK1169: one or more multiply defined symbols found

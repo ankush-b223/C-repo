@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "732e88e9-8e41-47ef-8456-f1acdfb76f24": {
+      "ProjectGuid": "732e88e9-8e41-47ef-8456-f1acdfb76f24",
+      "DisplayName": "Half pyramid of alphabets",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

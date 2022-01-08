@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\ankb2\source\repos\Sub_array of continous elements for a sum\Sub_array of continous elements for a sum\Source.cpp(3,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\ankb2\source\repos\Sub_array of continous elements for a sum\Sub_array of continous elements for a sum\Source.cpp(5,38): warning C4101: 'sub_array': unreferenced local variable
+C:\Users\ankb2\source\repos\Sub_array of continous elements for a sum\Sub_array of continous elements for a sum\Source.cpp(6,21): warning C4101: 'i': unreferenced local variable
+  Sub_array of continous elements for a sum.vcxproj -> C:\Users\ankb2\source\repos\Sub_array of continous elements for a sum\x64\Debug\Sub_array of continous elements for a sum.exe

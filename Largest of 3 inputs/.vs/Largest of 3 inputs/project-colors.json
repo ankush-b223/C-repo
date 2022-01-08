@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8282f48d-1559-4b78-aed7-31cfcc12c0fb": {
+      "ProjectGuid": "8282f48d-1559-4b78-aed7-31cfcc12c0fb",
+      "DisplayName": "Largest of 3 inputs",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

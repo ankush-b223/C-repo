@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6e02f380-0677-42d5-8b57-a60c8216b69d": {
+      "ProjectGuid": "6e02f380-0677-42d5-8b57-a60c8216b69d",
+      "DisplayName": "Armstrong between interval sum",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

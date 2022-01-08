@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\ankb2\source\repos\Grade_avg\Grade_avg\Source.cpp(24,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Grade_avg.vcxproj -> C:\Users\ankb2\source\repos\Grade_avg\x64\Debug\Grade_avg.exe

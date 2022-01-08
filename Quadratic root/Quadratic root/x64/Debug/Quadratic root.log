@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\ankb2\source\repos\Quadratic root\Quadratic root\Source.cpp(19,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ankb2\source\repos\Quadratic root\Quadratic root\Source.cpp(20,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Quadratic root.vcxproj -> C:\Users\ankb2\source\repos\Quadratic root\x64\Debug\Quadratic root.exe

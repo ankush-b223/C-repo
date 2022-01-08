@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5a5412ac-8e87-4a06-bd89-0b7e728aa601": {
+      "ProjectGuid": "5a5412ac-8e87-4a06-bd89-0b7e728aa601",
+      "DisplayName": "Distinct triplet sum",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

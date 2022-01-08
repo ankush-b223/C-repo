@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\ankb2\source\repos\Array average\Array average\Source.cpp(3,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Array average.vcxproj -> C:\Users\ankb2\source\repos\Array average\x64\Debug\Array average.exe

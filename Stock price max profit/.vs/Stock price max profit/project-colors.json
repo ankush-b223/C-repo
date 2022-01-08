@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "98502968-33f1-4006-a78a-4aa8ac1643c8": {
+      "ProjectGuid": "98502968-33f1-4006-a78a-4aa8ac1643c8",
+      "DisplayName": "Stock price max profit",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

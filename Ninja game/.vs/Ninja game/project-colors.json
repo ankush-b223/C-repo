@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5ecd2b74-14d4-4a6d-b43d-8772e17ac617": {
+      "ProjectGuid": "5ecd2b74-14d4-4a6d-b43d-8772e17ac617",
+      "DisplayName": "Ninja game",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

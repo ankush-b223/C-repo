@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b48da3be-4f3d-49e6-ba64-749386a9b87f": {
+      "ProjectGuid": "b48da3be-4f3d-49e6-ba64-749386a9b87f",
+      "DisplayName": "pyramid of numbers",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

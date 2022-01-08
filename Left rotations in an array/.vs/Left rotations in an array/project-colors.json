@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6b7f25a4-d3da-4586-8bd7-7e04d481db68": {
+      "ProjectGuid": "6b7f25a4-d3da-4586-8bd7-7e04d481db68",
+      "DisplayName": "Left rotations in an array",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "24e8308a-f007-443a-bb7b-e68d7bfb151a": {
+      "ProjectGuid": "24e8308a-f007-443a-bb7b-e68d7bfb151a",
+      "DisplayName": "Armstrong number between two intervals",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

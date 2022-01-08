@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "82c0c24a-ba10-47ad-8fed-aa9f230d79da": {
+      "ProjectGuid": "82c0c24a-ba10-47ad-8fed-aa9f230d79da",
+      "DisplayName": "Sub_array of continous elements for a sum",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

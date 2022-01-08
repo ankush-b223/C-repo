@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\ankb2\source\repos\K largest element\K largest element\Source.cpp(3,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\ankb2\source\repos\K largest element\K largest element\Source.cpp(5,9): warning C4101: 'last_index': unreferenced local variable
+  K largest element.vcxproj -> C:\Users\ankb2\source\repos\K largest element\x64\Debug\K largest element.exe

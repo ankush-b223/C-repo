@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5312ef91-714f-456d-843d-da4714511a3f": {
+      "ProjectGuid": "5312ef91-714f-456d-843d-da4714511a3f",
+      "DisplayName": "K largest element",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
